@@ -16,4 +16,3 @@ HTML, CSS.
 git clone https://github.com/f1tZy/LearnToLearn.git
 ```
 * Запустить файл index.html
-```
